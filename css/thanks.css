@@ -22,10 +22,10 @@ body {
     text-align: center;
 }
 h1 {
-    font-family: 'Raleway', sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 4em;
     letter-spacing: 3px;
-    color: #fdf001;
+    color: #e95c20ff;
     margin: 0;
     margin-bottom: 20px;
 }
@@ -33,11 +33,11 @@ h1 {
     margin: 0;
     font-size: 1.3em;
     color: #aaa;
-    font-family: 'Raleway', sans-serif;
+    font-family: "Raleway", sans-serif;
     letter-spacing: 1px;
 }
 .go-home {
-    background: #fdf001;
+    background: #e95c20ff;
     border: 2px solid #ffffff;
     color: #ffffff;
     font-weight: 600;
@@ -58,10 +58,10 @@ h1 {
 }
 .go-home:hover {
     background: transparent;
-    border-color: #fdf001;
+    border-color: #e95c20ff;
 }
 a:hover .go-home {
-    color: #fdf001;
+    color: #e95c20ff;
 }
 .go-home a {
     text-decoration: none;
@@ -78,7 +78,7 @@ a:hover .go-home {
     margin: 0;
     padding: 4px;
     color: #ffc107;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     letter-spacing: 1px;
 }
 .footer-like p a {
