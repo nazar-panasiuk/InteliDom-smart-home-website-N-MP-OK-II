@@ -1,0 +1,1 @@
+# InteliDom-smart-home-website-N-MP-OK-II
